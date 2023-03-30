@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://img.shields.io/github/languages/top/?color=6d00c1&label-style=flat-square" </a>
+<img src="https://img.shields.io/github/languages/top/JamSheets/jam-nuker?color=6d00c1&label-style=flat-square" </a>
 </p>
 
 <p align="center">
