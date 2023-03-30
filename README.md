@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-<a href="https://youtu.be/ap9RE5AP6dE">TOKEN GENERATOR SHOWCASE (IN PREMIUM (10$)</a>
+<a href="https://jamnuker.sellpass.io">TOKEN GENERATOR (IN PREMIUM (10$)</a>
 
  
 </p>
 <p align="center">
-<a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/download/v1.0.0/GANG-Nuker.zip">Fast Download</a> ㅤ•ㅤ
-<a href="https://discord.gg/DuNZuyVdRx">Support Server</a>ㅤ•ㅤ
+<a href="https://jamnuker.sellpass.io/">Buy</a> ㅤ•ㅤ
+<a href="https://discord.gg/ymtcEcF686">Support Server</a>ㅤ•ㅤ
 </p>
 </p>
 <p align="center">
